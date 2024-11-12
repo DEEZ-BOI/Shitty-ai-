@@ -1,0 +1,7 @@
+torch
+tkinter
+sentence_transformers
+langchain_groq
+Wikipedia
+wolframalpha
+pyttsx3
